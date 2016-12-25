@@ -1,2 +1,2 @@
 # planner-of-meals
-A minor university project that plans means.
+A minor university project that plans meals.
